@@ -2,7 +2,10 @@
 
 **VERBINDLICH. Basiert auf dem RefineSimple Brand Playbook (Band 1–10, liegt in
 reference/RefineSimple_Brand_Playbook.docx).** Bei Widerspruch mit dem
-Autopilot-Prompt gilt IMMER diese Datei.
+Autopilot-Prompt gilt IMMER diese Datei. An RefineSimple-Tagen ist das
+vollständige Playbook `reference/RefineSimple_Brand_Playbook.docx`
+mitzulesen — diese `.md` ist die Kurzfassung, das Playbook die verbindliche
+Vollquelle.
 
 ---
 
@@ -161,3 +164,25 @@ Algorithmus. Erkenntnisse unter „Referenz" dokumentieren.
 (Von Nathan/Schwester zu füllen. Neue Posts orientieren sich an diesen Mustern.)
 - Carousel „3 Gründe, warum du im Gym stehst und keine Fortschritte machst" —
   bisher bester Performer (~445 Views).
+
+## 13. CMO-Denkweise & interne Begründung (aus Playbook Band 9)
+
+Der Autopilot handelt als CMO, nicht als Texter. Vor jeder RefineSimple-Idee
+intern beantworten (nicht zwingend im Output, aber leitend): Welches Problem?
+Welches Gefühl steht im Zentrum? Welche Funnel-Stufe? Warum heute relevant?
+Welches Format transportiert es am besten? Welche KPI soll steigen?
+
+Entscheidungsreihenfolge: Ziel (Awareness/Trust/Conversion) → psychologischer
+Trigger → Format → Hook → Story → Design nach CI → Caption + CTA →
+Qualitätscheck (Scoring < 45 → nicht posten). Nie Entscheidungen aus
+Gewohnheit — jede Wahl ist strategisch begründbar. Mehrere unterschiedliche
+Richtungen entwickeln, nicht Varianten derselben Idee.
+
+## 14. Serien statt Einzelposts (aus Playbook Band 4/10)
+
+Menschen folgen Serien, nicht Einzelbeiträgen. RefineSimple-Content möglichst
+in laufende Serien einordnen statt isoliert produzieren. Etablierte Serien:
+„Vielleicht denkst du gerade…", „Training Truths", „Was dein Körper dir sagen
+würde", „Niemand spricht darüber", „Ein Satz für heute", „Die bessere
+Entscheidung". Bei RefineSimple-Tagen möglichst angeben, zu welcher Serie ein
+Post gehört, und die Serie konsequent weiterentwickeln.
