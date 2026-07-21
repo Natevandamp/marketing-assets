@@ -1,95 +1,163 @@
 # RefineSimple — Content-Strategie (Stand 20.07.2026)
 
-**Diese Datei ist die verbindliche Grundlage für allen RefineSimple-Content.**
-Quelle: PRODUCT_MARKETING_1.5.2.md + Strategie-Feedback (Reichweiten-Phase).
+**VERBINDLICH. Basiert auf dem RefineSimple Brand Playbook (Band 1–10, liegt in
+reference/RefineSimple_Brand_Playbook.docx).** Bei Widerspruch mit dem
+Autopilot-Prompt gilt IMMER diese Datei.
 
-## Phase & Ziel
+---
 
-**Wir sind NICHT in der Verkaufsphase. Ziel = Reichweite.**
-- Jeder Post adressiert ein konkretes Problem oder eine Situation, in der sich
-  die Zielgruppe wiedererkennt. Kein Feature-Katalog, kein Abverkauf.
-- CTA-Hierarchie: Diskussion/Identifikation > Follow > Store-Link. Trial-CTAs
-  („14 Tage kostenlos") nur sparsam, max. 1–2× pro Woche, nie im Hook.
-- Formel pro Post: **Problem/Situation (Hook) → Warum das passiert → wie man es
-  besser denkt** (App als logische Konsequenz, nicht als Absender).
+## 0. Der eine Grundsatz (über allem)
 
-## Mission & Positionierung
+Reihenfolge JEDES Beitrags: **Gedanke → Emotion → Geschichte → Erkenntnis →
+Lösung → RefineSimple.** Wird sie umgedreht, entsteht Werbung statt Resonanz.
 
-- Tagline: „Werde deinem Training gerecht." / "Live up to your training."
-- Leitsatz: **Adaptive. Explainable. Overridable.**
-- Kernthese: Dein Plan weiß nicht, wie es dir heute geht. RefineSimple liest
-  Readiness (HRV, Schlaf, Ruhepuls, Trainingslast) und passt die Session an —
-  erklärt jede Entscheidung, und du kannst alles übersteuern.
-- Struktureller Vorsprung: Marktführer Alpha Progression hat keinerlei
-  Recovery-Layer (kein HRV, kein Schlaf). Nie namentlich bashen — implizit
-  („dein Plan kennt deinen Schlaf nicht") reicht.
+- Jeder Post beginnt mit einem **menschlichen Gedanken**, NIE mit einem Feature.
+- Zuerst das Gefühl ansprechen, erst danach die Lösung.
+- Ein Beitrag = ein Kerngedanke = ein psychologisches Thema = ein CTA.
+- Ziel ist nicht Reichweite oder Likes, sondern: Aufmerksamkeit → Vertrauen →
+  Handeln. Wir bauen eine lernende Marke, keine Post-Fabrik.
 
-## Zielgruppe & was sie denkt
+## 1. Marke in einem Satz
 
-Ernsthafte, evidenzbasierte Kraftsportler (Natural-Bodybuilding-/S&C-Denke,
-DACH + EN). Sie glauben:
-- „Konstanz schlägt Motivation" — aber sie ballern auch kaputt weiter.
-- Sie tracken schon (Whoop/Oura/Apple Watch), nutzen die Daten fürs Training
-  aber nicht systematisch.
-- Sie misstrauen Blackbox-KI und Motivations-Bros. Zahlen + Begründungen
-  überzeugen sie, Versprechen nicht.
+Persönlicher Entscheidungsassistent für Training und Regeneration. Wir verkaufen
+keine Trainingspläne — wir verkaufen das Gefühl, die richtige Entscheidung zu
+treffen. Die eigentliche Konkurrenz ist **Unsicherheit**. Gestalterische
+Vorbilder: Apple, WHOOP, Notion — nicht klassische Fitnessmarken.
 
-**Pain Points (Content-Goldadern):**
-1. Stur nach Plan trainieren trotz Schrott-Schlaf → Stagnation/Regression
-2. Deload nach Kalender statt nach Zustand (alle 4–6 Wochen, blind)
-3. Junk Volume: mehr Sätze ≠ mehr Wachstum, Obergrenzen unbekannt
-4. Plateau ohne Erklärung — „woran lag's?" bleibt unbeantwortet
-5. Immer derselbe Plan → Langeweile, aber Angst, Progression zu verlieren
-6. Apps, die Entscheidungen treffen, ohne sie zu begründen
+## 2. Funnel-Verteilung (Phase: Awareness-Aufbau)
 
-## Tonalität & Sprache
+- **70 % Awareness** — Gedanken, Identifikation, Alltag
+- **20 % Trust** — Wissenschaft einfach erklärt, KI/App-Einblicke, Build in Public
+- **10 % Conversion** — Test-CTA, Testimonials
 
-- **Anti-Hype, nüchtern, präzise. KEINE Emojis. Keine Motivationssprüche.**
-- Zahlen und Messwerte statt Adjektive: „HRV 41 ms (Ø 52)" schlägt „schlechte Erholung".
-- Kurze Sätze. Aktiv. Fachsprache ist OK (HRV, MEV/MAV, Deload, Volumen) —
-  die Zielgruppe kennt sie.
-- Zweisprachig: EN zuerst, dann deutscher Absatz (eigenständig formuliert,
-  Marker „DE:" statt Flaggen-Emoji).
-- Verboten: „game-changer", „revolutionär", „unlock your potential",
-  Ausrufezeichen-Ketten, Emojis jeder Art.
+Trial-/Install-CTAs klar in der Minderheit. Default-CTA ist weich: „Speichere dir
+diesen Gedanken." / „Wie würdest du heute entscheiden?" / „Schick das jemandem,
+der das hören sollte."
 
-## CI (exakt)
+## 3. Zielgruppen-Psychologie (Content-Quelle Nr. 1)
 
-- Accent Mint: **#42C2A1**
-- Readiness-Blau: **#7CC4F0**
-- Dark-only: Hintergründe Anthrazit/Schwarz (#14171A o. ä.), weiße Typo
-- Bildwelt: dunkle, cinematische Gym-Fotografie ODER echte App-Screens
-  (Readiness-Ring, Coach-Rückblick), Textmarker-Effekt in #42C2A1
+Zielgruppe über ihr Denken, nicht über Alter/Einkommen. **Kerntreiber:**
+Kontrolle, Sicherheit, Fortschritt, Identität, Vergleich, Effizienz,
+Verletzungsangst, Perfektionismus, Schuld, Neugier, Selbstwirksamkeit, Ruhe.
 
-## Beweis-Momente (für Visuals/Screens nutzen)
+**Innere Dialoge = Rohmaterial für Hooks** (wörtlich verwendbar):
+- Selbstzweifel: „Vielleicht trainiere ich seit Jahren falsch." / „Alle machen
+  Fortschritte. Nur ich nicht." / „Bin ich nicht diszipliniert genug?"
+- Überforderung: „Es gibt tausend Meinungen. Welche stimmt?"
+- Schuld: „Ein Ruhetag fühlt sich wie Aufgeben an." / „Vielleicht verliere ich
+  meinen Fortschritt."
+- Perfektionismus: „Wenn ich trainiere, dann richtig." / „Ich will keinen Fehler
+  machen."
+- Hoffnung: „Es muss doch einen intelligenteren Weg geben." / „Vielleicht liegt
+  das Problem gar nicht an mir." / „Ich möchte meinem Körper endlich zuhören."
 
-1. Readiness-Ring 90 (mint, Krone) vs. 48 (bernstein)
-2. Zwei Generierungen nebeneinander — verschiedene Pläne, gleiche Anker
-3. Übungstausch-Sheet mit Begründungs-Chip
-4. Coach-Wochenrückblick: „Brust 25 Sätze, Obergrenze 22" — kann kein
-   Wettbewerber nachstellen
-5. Muskel-Volumen als Urteil (zu wenig/optimal/zu viel)
+## 4. Hooks (jeder Post startet mit einem davon)
 
-## Aktuelle Feature-Wahrheit (Stand 1.5.x)
+Ebenen: Beobachtung, Gedanke, Paradoxon, Konflikt, Neugier, Story, Frage,
+Erlaubnis, Spiegel. Beispiele:
+- „Vielleicht bist du gar nicht undiszipliniert."
+- „Mehr Training kann weniger Fortschritt bedeuten."
+- „Der produktivste Schritt könnte heute eine Pause sein."
+- „Du musst heute niemandem etwas beweisen."
+- „Was wäre, wenn Müdigkeit kein Zeichen von Schwäche wäre?"
+- „Du liest das wahrscheinlich, weil du genau daran zweifelst."
 
-- Bewerbbar: 207 Übungen, Generator-Rotation (12–15 von 20 Slots frisch,
-  Grundübungen als Anker), Übungstausch mit Begründung, Frequenz-Wahl
-  (3×/4×/6×), Session-Reihenfolge, Readiness-Ring mit ehrlichen Treibern
-- **NICHT bewerben:** adjust_plan (Coach setzt Wochenanalyse plan-weit um) —
-  erst wenn Backend live. Keine „coming soon"-Posts aus der Roadmap.
-- Fakten: ~400 Unit-Tests, DE/EN, iOS 17.6+, 12,99 €/M · 79,99 €/J · 14 T Trial
-- WICHTIG: App braucht Account + Backend — NIE mit on-device/no-account werben.
+Hooks dürfen überraschen, aber nie täuschen. Erster Satz muss ohne Markenname
+funktionieren und den Daumen stoppen.
 
-## Format-Mix (Woche)
+## 5. Tonalität & Copywriting
 
-- 2× Problem-Post (Pain Point + Reframe, Foto oder Typo-Karte)
-- 1× Beweis-Post (echter Screen + eine Zahl im Fokus)
-- 1× Einwand-Post („KI soll mein Training planen? Nur wenn sie sich erklärt.")
-- Sonntag: Build in Public (Solo-Founder, ehrliche Zahlen/Entscheidungen)
+- Ruhig statt laut · selbstbewusst statt überheblich · wissenschaftlich aber
+  verständlich · präzise statt ausschweifend · motivierend ohne toxische Motivation.
+- Wie ein intelligenter Coach, der zuhört. Erklärt, statt zu belehren.
+- Satzrhythmus: kurz/lang im Wechsel. Satz 1 = Aufmerksamkeit, Satz 2 =
+  Identifikation, Satz 3 = Kontext, Satz 4 = neue Perspektive.
+- **Bevorzugte Wörter:** Klarheit, Bereitschaft, Vertrauen, Fortschritt, Ruhe,
+  Entscheidung, Verstehen, Regeneration, Balance, intelligent trainieren.
+- **Verbotene Wörter/Phrasen:** zerstören, extrem, ultimativ, Hack, Geheimnis,
+  „100 % garantiert", „keine Ausreden", „maximale Gains", brutal, „No Pain No
+  Gain", „trainiere härter", „nur Gewinner…", „unser Algorithmus ist perfekt",
+  game-changer, revolutionär.
+- **Niemals versprechen:** Wunder, garantierte Ergebnisse, Perfektion.
+- **Immer vermitteln:** Jeder Körper ist anders · Erholung ist Teil des
+  Fortschritts · mehr ist nicht immer besser · die beste Entscheidung hängt vom
+  heutigen Zustand ab.
 
-## Referenz: erfolgreichste Posts
+## 6. Emojis, Hashtags, CTA
 
-(Von Nathan/Schwester zu ergänzen — Top-Posts mit Reichweite hier eintragen,
-neue Posts orientieren sich an deren Muster.)
+- **Emojis:** sparsam, max. 3–5 pro Caption, funktional (Lesefluss), nie
+  dekorativ, keine Ketten, keine Clickbait-Emojis. In GRAFIKEN gar keine Emojis.
+- **Hashtags:** 3–5, Mischung aus Marke/Thema/Community, regelmäßig variieren.
+- **CTA:** genau einer pro Beitrag, zurückhaltend.
+- Zweisprachig: EN zuerst, dann deutscher Absatz (eigenständig, Marker „DE:").
+
+## 7. Bildsprache & Design (WICHTIGE ÄNDERUNG ggü. bisher)
+
+Menschen im Mittelpunkt — **nicht Geräte, nicht Hanteln, nicht Diagramme, kein
+Muskel-Posing.** Alltagsszenen schlagen Gym-Action:
+- Auto vor dem Gym · Sofa/Wohnzimmer · Schlafzimmer nach schlechtem Schlaf ·
+  Umkleide · Spaziergang · Blick aus dem Fenster · Hand mit Smartwatch ·
+  nachdenkliche Portraits · Trainingsschuhe vor der Tür · leere Hantelbank.
+- **Licht:** natürliches Licht, warme neutrale Farben, weiche Kontraste, hoher
+  Weißanteil, leicht filmisch. KEINE übersättigten Farben, keine extremen Filter.
+- Hintergründe: **schwarz ODER hell** — beide ruhig. NICHT mehr „dark-only";
+  helle, freundliche Motive sind ausdrücklich willkommen und passen oft besser.
+- Typografie: max. 2 Schriften, große Headline, 2–4 hervorgehobene Wörter, viel
+  Weißraum, Grün **#42C2A1 nur als Akzent/Marker**, Readiness-Blau #7CC4F0
+  sekundär. Design-Test: „Könnte Apple das veröffentlichen?"
+- Vermeiden: bunte Verläufe, überladene Infografiken, Clickbait-Design, rote
+  Warnhinweise, Fitness-Klischees, emotionslose Stockbilder.
+- App-Screens unterstützen, dominieren nie: nur relevanter Ausschnitt, in echtes
+  Gerät eingebettet, mit Abstand zum Text.
+
+## 8. Formate (Botschaft bestimmt Format, nie umgekehrt)
+
+- **Single Image** = stärkstes Branding-Format: 1 Gedanke, max. 2 Textblöcke,
+  große Schrift, viel Weißraum, starkes emotionales Foto, keine Feature-Erklärung.
+- **Carousel** = Verständnis-Format (1 Hook → 2 Problem → 3 Warum → 4 Erkenntnis
+  → 5 Lösung → 6 CTA optional). Für Übertraining, Schlaf, HRV, Readiness, Mythen.
+- **Reel** = Situation/Emotion, keine PowerPoint mit Musik (POV vor Training,
+  Blick auf Smartwatch, im Auto vor dem Gym, Build in Public).
+- **Story** = Nähe: Umfragen, Fragen, Behind the Scenes, Build in Public,
+  Mini-Learnings + klickbarer Store-Link-Sticker.
+- **Serien statt Einzelposts:** „Vielleicht denkst du gerade…", „Training
+  Truths", „Was dein Körper dir sagen würde", „Niemand spricht darüber",
+  „Ein Satz für heute".
+
+Caption ergänzt die Grafik, wiederholt sie NIE.
+
+## 9. Qualitätscheck vor Veröffentlichung (Scoring)
+
+Bewerten (0–10): Emotion · Identifikation · Originalität · Speicherpotenzial ·
+Share-Potenzial · Markenfit · Einfachheit. **Unter 45 Punkten → nicht posten.**
+Zusätzlich: Erster Satz ohne Logo interessant? Ein Kerngedanke? Lösung einfacher
+als Problem? Würde es auch ohne CTA funktionieren?
+
+## 10. Produkt-Wahrheit (Fakten, Stand 1.5.x)
+
+- Adaptive/Explainable/Overridable: Readiness (HRV 35 / Schlaf 25 / Ruhepuls 15 /
+  Load 25) wählt die heutige Session; jede Empfehlung nennt den Messwert; alles
+  übersteuerbar. Struktureller Vorsprung ggü. Alpha Progression: kein
+  Recovery-Layer (nie namentlich bashen).
+- Bewerbbar: 207 Übungen, Generator-Rotation (12–15 von 20 Slots frisch, Anker
+  fix), Übungstausch mit Begründung, Frequenz-Wahl (3×/4×/6×), Volumen als Urteil
+  (zu wenig/optimal/zu viel, Bsp. „Brust 25 Sätze, Obergrenze 22"),
+  Coach-Wochenrückblick.
+- **NICHT bewerben:** adjust_plan (bis Backend live), keine Roadmap-/„coming
+  soon"-Posts. Braucht Account + Backend — NIE mit on-device/no-account werben.
+- Preis 12,99 €/M · 79,99 €/J · 14 T Trial · iOS 17.6+ · DE/EN.
+- Store-Link (klickbar in Stories/X):
+  https://apps.apple.com/de/app/refinesimple-krafttraining/id6776110728
+
+## 11. Lernsystem (monatlich, mit Nathan)
+
+Nach jedem Monat: Top-5 & schwächste Posts, gemeinsame psychologische Muster,
+beste Hooks/Formate/Zeiten, neue Hypothesen. Regeln: keine Entscheidung wegen
+eines einzelnen Posts, min. 3 Tests pro Hypothese, Serien > Einzelposts, Marke >
+Algorithmus. Erkenntnisse unter „Referenz" dokumentieren.
+
+## 12. Referenz: erfolgreichste Posts / Learnings
+
+(Von Nathan/Schwester zu füllen. Neue Posts orientieren sich an diesen Mustern.)
 - Carousel „3 Gründe, warum du im Gym stehst und keine Fortschritte machst" —
-  bester Performer bisher (~445 Views): Problem-Liste + Marker-Typo auf Foto.
+  bisher bester Performer (~445 Views).
