@@ -1,11 +1,16 @@
 # RefineSimple — Content-Strategie (Stand 20.07.2026)
 
-**VERBINDLICH. Basiert auf dem RefineSimple Brand Playbook (Band 1–10, liegt in
-reference/RefineSimple_Brand_Playbook.docx).** Bei Widerspruch mit dem
-Autopilot-Prompt gilt IMMER diese Datei. An RefineSimple-Tagen ist das
-vollständige Playbook `reference/RefineSimple_Brand_Playbook.docx`
-mitzulesen — diese `.md` ist die Kurzfassung, das Playbook die verbindliche
-Vollquelle.
+**DAS PLAYBOOK IST DIE BIBEL.** `reference/RefineSimple_Brand_Playbook.docx`
+(Band 1–10) ist die oberste, verbindliche Quelle für ALLES rund um
+RefineSimple. Es ist an RefineSimple-Tagen IMMER vollständig mitzulesen.
+
+**Rangfolge bei Widerspruch (von oben nach unten):**
+1. Playbook `.docx` (Bibel) — schlägt alles.
+2. Diese Datei `refinesimple.md` (Kurzfassung/Arbeitsauszug des Playbooks).
+3. Autopilot-Prompt.
+
+Diese `.md` ersetzt das Playbook NICHT — sie fasst es zusammen. Bei jeder
+Unsicherheit oder jedem Konflikt gilt der Wortlaut des Playbooks.
 
 ---
 
