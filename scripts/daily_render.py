@@ -121,16 +121,16 @@ if __name__ == "__main__":
     render(
         out=os.path.join(outdir, f"dosesimple_{date}.png"),
         theme="light",
-        headline="Did I already take it *tonight*?",
-        subline="By bedtime, one day blurs into the last.",
+        headline="Hab ich es *heute Abend* schon genommen?",
+        subline="Bis zum Schlafengehen verschwimmt ein Tag mit dem nächsten.",
         wordmark="DoseSimple",
         domain="dosesimple.com",
     )
     render(
         out=os.path.join(outdir, f"refinesimple_{date}.png"),
         theme="dark",
-        headline="You slept *badly*. And you're about to train like you *didn't*.",
-        subline="The plan doesn't know how last night went.\nYou do.",
+        headline="Du hast *schlecht* geschlafen. Der Plan tut, als *wäre nichts*.",
+        subline="Er weiß nicht, wie deine Nacht war.\nDu schon.",
         wordmark="RefineSimple",
         domain="refinesimple.com",
     )
