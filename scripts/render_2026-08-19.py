@@ -3,7 +3,7 @@ import os, sys
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 from daily_render import render, REPO
 
-date = "2026-08-18"
+date = "2026-08-19"
 outdir = os.path.join(REPO, "posts", date)
 os.makedirs(outdir, exist_ok=True)
 
