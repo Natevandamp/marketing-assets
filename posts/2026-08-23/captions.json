@@ -1,0 +1,19 @@
+{
+  "date": "2026-08-23",
+  "posts": [
+    {
+      "channel": "dosesimple",
+      "image": "dosesimple_2026-08-23.png",
+      "time_berlin": "15:30",
+      "caption": "You can feel a skipped night of sleep. You can't feel a skipped vitamin.\n\nThat's why the doubt shows up on Sunday evenings: is this actually doing anything? Memory can't answer that — it can't compare weeks. 🌙\n\nYour own days can. DoseSimple lays steady weeks next to the sleep and recovery data from Apple Health, so a vague feeling becomes a visible pattern. Not a verdict — just your own weeks, side by side.\n\nDE: Eine Nacht ohne Schlaf spürt man sofort. Ein vergessenes Vitamin nie — und genau deshalb kommt sonntagabends der Zweifel: Bringt das überhaupt etwas? Das Gedächtnis kann diese Frage nicht beantworten, es kann keine Wochen vergleichen. Deine eigenen Tage können es: DoseSimple legt regelmäßige Einnahme neben die Schlaf- und Erholungsdaten aus Apple Health — so wird aus einem vagen Gefühl ein sichtbares Muster. Direkt auf dem iPhone, ohne Konto.\n\nApp Store: https://apps.apple.com/app/id6763298735\n\n#Supplements #Routine #Schlaf #AppleHealth #Alltag",
+      "note": "Pain Point: Man spürt nicht, ob es etwas bringt → sonntäglicher Zweifel/Abbruchgedanke. Neuer Winkel (bisher: Vergessen/Cues/Arztfrage — hier: Wirkungs-Unsichtbarkeit). Kern-Feature Schlaf/Erholungs-Korrelation, kein Health-Claim (Muster, kein Urteil), 1 Emoji, kein Jargon."
+    },
+    {
+      "channel": "refinesimple",
+      "image": "refinesimple_2026-08-23.png",
+      "time_berlin": "17:30",
+      "caption": "Build in public, week 34. Apple says the App Store ecosystem moved 1.4 trillion dollars last year.\n\nNext to a number like that, one-person work feels invisible. This week here: one bug fixed, support emails answered, one detail quietly improved. No headline anywhere.\n\nBut a small app was never playing the trillion game. It has to be right for the people who open it on a Tuesday — that's the whole job.\n\nTraining teaches the same lesson. The numbers on the bench next to you are not your program. Comparison scales endlessly. Usefulness doesn't have to.\n\nSave this thought for your own week 34.\n\nDE: Build in Public, Woche 34. Apple meldet: 1,4 Billionen Dollar hat das App-Store-Ökosystem im letzten Jahr bewegt. Neben so einer Zahl wirkt eine Ein-Personen-App unsichtbar. Die Woche hier: ein Bugfix, Support-Mails, ein Detail verbessert — keine Schlagzeile. Aber eine kleine App spielt nicht um Billionen. Sie muss für die Menschen stimmen, die sie am Dienstag öffnen. Im Training gilt dasselbe: Die Zahlen an der Hantelbank nebenan sind nicht dein Plan. Vergleich skaliert endlos — Nützlichkeit muss das nicht. Speichere dir den Gedanken für deine eigene Woche 34.\n\nApp Store: https://apps.apple.com/de/app/refinesimple-krafttraining/id6776110728\n\n#buildinpublic #indiedev #krafttraining #vergleich #refinesimple",
+      "note": "Serie: Build in Public (Woche 34). Psychologisches Thema: Vergleich (Playbook Band 3). Aufhänger: Apple Newsroom (Juni 2026) — App-Store-Ökosystem 1,4 Billionen $ in 2025. Awareness, weicher Save-CTA, keine Emojis, kein Trial-CTA, keine on-device-Claims, kein Roadmap-Content."
+    }
+  ]
+}
