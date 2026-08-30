@@ -1,0 +1,19 @@
+{
+  "date": "2026-08-30",
+  "posts": [
+    {
+      "channel": "dosesimple",
+      "image": "dosesimple_2026-08-30.png",
+      "time_berlin": "15:30",
+      "caption": "Sunday evening, refilling the weekly box — and two slots from last week are still full.\n\nWhich days were those? Hard to say. That's the strange part: the box keeps better records than memory does. Not because you're careless — because weeks blur. 📋\n\nGuessing backwards is the hard way. Seeing your days as they happen is easier: DoseSimple keeps the honest count and lays your regular days next to the sleep and recovery data from Apple Health. On your iPhone, no account.\n\nDE: Sonntagabend, Wochenbox auffüllen — und zwei Fächer von letzter Woche sind noch voll. Welche Tage das waren? Weiß man ehrlicherweise nicht mehr. Die Box führt besser Buch als das Gedächtnis — nicht aus Nachlässigkeit, sondern weil Wochen verschwimmen. DoseSimple zählt ehrlich mit und legt deine Tage neben die Schlaf- und Erholungsdaten aus Apple Health. Direkt auf dem iPhone, ohne Konto.\n\nApp Store: https://apps.apple.com/app/id6763298735\n\n#supplements #medikamente #routine #sonntag #applehealth",
+      "note": "Pain Point: Rückblick-Unschärfe — man weiß am Sonntag nicht mehr, welche Tage ausgefallen sind (neuer Winkel; zuletzt: Wochenend-Anker, Wirkungs-Zweifel, Schlaf-Regelmäßigkeit). 1 Emoji, kein Jargon, kein Health-Claim."
+    },
+    {
+      "channel": "refinesimple",
+      "image": "refinesimple_2026-08-30.png",
+      "time_berlin": "17:30",
+      "caption": "Build in public, week 35. This week Apple sent out invites — September 9, a big stage, the whole world watching.\n\nNothing here got an invite. The week was quiet: checking the app against what September brings, answering support, improving one detail nobody will ever notice. Preparation — the kind of work with no applause built in.\n\nTraining has the same quiet weeks. Not every session is a test day. Most are the work in between: the technique session, the early night, the deliberately lighter day. From the outside they look like nothing. They are the reason the loud days work.\n\nSave this for your next quiet week.\n\nDE: Build in Public, Woche 35. Apple hat diese Woche Einladungen verschickt — 9. September, große Bühne. Hier: keine Bühne. Testen für den September, Support-Mails, ein Detail verbessert, das niemandem auffallen wird. Vorbereitung eben. Im Training gibt es dieselben leisen Wochen: die Technik-Einheit, der frühe Abend, der bewusst leichtere Tag. Von außen sieht das nach nichts aus — aber genau diese Wochen tragen die lauten Tage. Speichere dir den Gedanken für deine nächste leise Woche.\n\nApp Store: https://apps.apple.com/de/app/refinesimple-krafttraining/id6776110728\n\n#buildinpublic #indiedev #krafttraining #vorbereitung #refinesimple",
+      "note": "Serie: Build in Public (Woche 35). Psychologisches Thema: leise Vorbereitung vs. große Bühne (Perfektionismus/Vergleich). Aufhänger: Apple-Event 'Surprise and Shine' am 9.9. diese Woche angekündigt (MacRumors/9to5Mac, 26.8.). Awareness, weicher Save-CTA, keine Emojis, kein Trial-CTA, keine on-device-Claims, kein Roadmap-Content."
+    }
+  ]
+}
