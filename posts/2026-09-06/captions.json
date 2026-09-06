@@ -1,0 +1,19 @@
+{
+  "date": "2026-09-06",
+  "posts": [
+    {
+      "channel": "dosesimple",
+      "image": "dosesimple_2026-09-06.png",
+      "time_berlin": "15:30",
+      "caption": "The weekly plan gets written on Sunday — by your best self. Monday through Friday get lived by your real one.\n\nThat gap isn't a discipline problem. Plans assume ideal days: calm evenings, early nights, nothing unexpected. Real weeks have late trains and short nights, and the plan quietly falls behind. 🗓️\n\nBetter than planning the perfect week: seeing the real one as it happens. DoseSimple keeps the honest record of your days and lays them next to the sleep and recovery data from Apple Health — so next Sunday you plan from facts, not hope. On your iPhone, no account.\n\nDE: Den Wochenplan schreibt am Sonntag deine beste Version. Leben muss ihn ab Montag die echte — und die hat volle Abende und kurze Nächte, mit denen der Plan nie rechnet. Das ist kein Disziplinproblem, sondern Optimismus auf Papier. DoseSimple hält fest, wie deine Woche wirklich läuft, und legt deine Tage neben die Schlaf- und Erholungsdaten aus Apple Health. So planst du nächsten Sonntag mit Fakten statt Hoffnung. Direkt auf dem iPhone, ohne Konto.\n\nApp Store: https://apps.apple.com/app/id6763298735\n\n#supplements #medikamente #routine #wochenplanung #applehealth",
+      "note": "Pain Point: Sonntagsplan der 'besten Version' vs. echte Woche / Optimismus-Lücke (neuer Winkel — zuletzt: Hab-ich-schon-Zweifel, Freitagabend-Ortswechsel, September-Schlaf-Reset, Tag-3-Verschwimmen, Wochenbox-Rückblick). 1 Emoji, kein Jargon, kein 'stack', kein Health-Claim."
+    },
+    {
+      "channel": "refinesimple",
+      "image": "refinesimple_2026-09-06.png",
+      "time_berlin": "17:30",
+      "caption": "Build in public, week 36. On Wednesday there will be new devices, and half the internet will tell you your training needs one.\n\nHere, the week before a launch looks different: quietly checking that the app reads sleep and heart data correctly once the new software rolls out. Unspectacular work. Necessary work.\n\nIt puts one thought in sharp relief: sensors get better every single year — and no plateau has ever been fixed at a keynote. Progress rarely waits for hardware. It waits for a decision: the one you make tomorrow morning, with the body you already have.\n\nHow will you decide tomorrow — by feel, by plan, or by what your night actually looked like?\n\nDE: Build in Public, Woche 36. Am Mittwoch gibt es neue Geräte — und gefühlt jeder erklärt dir, dein Training brauche eines davon. Hier sieht die Woche vor dem Launch anders aus: prüfen, dass die App Schlaf- und Herzdaten weiter korrekt liest, wenn die neue Software kommt. Unspektakulär, aber nötig. Dabei wird ein Gedanke sehr klar: Die Sensoren werden jedes Jahr besser — und noch kein Plateau wurde auf einer Bühne gelöst. Fortschritt wartet selten auf Hardware. Er wartet auf eine Entscheidung: die von morgen früh, mit dem Körper, den du schon hast. Wie entscheidest du morgen — nach Gefühl, nach Plan oder nach deiner Nacht?\n\nApp Store: https://apps.apple.com/de/app/refinesimple-krafttraining/id6776110728\n\n#buildinpublic #indiedev #krafttraining #regeneration #refinesimple",
+      "note": "Serie: Build in Public (Woche 36). Psych. Thema: Upgrade-Denken vs. Entscheidung (Kerntreiber: Hoffnung/Effizienz — 'Es muss doch einen intelligenteren Weg geben'; Kontrast-Trigger 'Mehr Daten ≠ Fortschritt'). Aufhänger: Apple-Event 'Surprise and Shine' 9.9. (MacRumors/AppleInsider) + watchOS-27-Health-Upgrades (9to5Mac). Funnel: Awareness/Trust (BiP). Weicher Frage-CTA, keine Emojis, kein Trial-CTA, keine on-device-Claims, kein Roadmap-/Feature-Versprechen (nur Kompatibilitäts-Testing als BiP-Einblick). Neuer Winkel ggü. 30.8. (leise Vorbereitung/Bühne) und 4.9. (Messen vs. Entscheiden — heute: Gerät vs. Entscheidung, bewusst als Fortsetzung des Event-Bogens)."
+    }
+  ]
+}
